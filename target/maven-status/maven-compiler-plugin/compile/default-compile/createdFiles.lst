@@ -1,0 +1,6 @@
+co\usa\ciclo3\ciclo3\service\PartyroomService.class
+co\usa\ciclo3\ciclo3\model\Partyroom.class
+co\usa\ciclo3\ciclo3\repository\crud\PartyroomCrudRepository.class
+co\usa\ciclo3\ciclo3\Ciclo3Application.class
+co\usa\ciclo3\ciclo3\web\PartyroomController.class
+co\usa\ciclo3\ciclo3\repository\PartyroomRepository.class
